@@ -1,31 +1,40 @@
 # Optimization
- DCAM MIPT course (6 sem)
+DCAM MIPT course (6 sem)
 
-Домашние задания (1 - 9) по оптимизации в рамках курсы "Методы оптимизации в МФТИ". 
-Семинарист - Безносиков А.Н.
+Homework assignments (1 - 9) on optimization within the course "Methods of Optimization at MIPT". Lecturer - Beznosikov A.N.
 
-Темы домашних заданий:
-1. Градиентный спуск. Наискорейший спуск.
-    Правила Армихо, Вульфа, Гольдстейна.
-    Шаг Поляка - Шора.
-2. Проекция градиентного спуска.
-    Задача минимизации эмпирического риска. 
-    Проксимальный градиентный спуск. 
-    Регуляризация.
-    Метод главных компонент.
-3. Логистическая регрессия. 
-    Метод тяжелого шарика. 
-    Ускоренный метод Нестерова.
-4. Зеркальный спуск, дивергенция Брэгмана. 
-    Метода Франка-Вульфа, его ускоренная версия. 
-5. Стохастические методы: SGD, SAGA, SVRG и SARAH.
-6. Координатные стохастические методы: координатный SGD, SEGA.
-7. "Распределенная" задача минимизации с операторами сжатия RAND k%, TOP k%. 
+
+
+
+Topics of homework assignments:
+1. Gradient descent. Steepest descent. Armijo, Wolfe, Goldstein rules. Polak - Ribiere step.
+   
+3. Projection gradient descent.
+   Minimizing empirical risk problem.
+   Proximal gradient descent.
+   Regularization.
+   Principal Component Analysis.
+   
+4. Logistic regression.
+   Heavy ball method.
+   Nesterov's accelerated method.
+   
+5. Mirror descent, Bregman divergence.
+   Frank-Wolfe method, its accelerated version.
+  
+6. Stochastic methods: SGD, SAGA, SVRG, and SARAH.
+   
+7. Coordinate stochastic methods: coordinate SGD, SEGA.
+
+8. Distributed minimization problem with compression operators RAND k%, TOP k%.
     Error feedback. DIANA.
-8. Седловая задача. 
-    Градиентный спуск. 
-    Экстраградиент с проекцией, его модификация. 
-    Решение билинейной задачи на симплексе.
-9. Методы второго порядка. 
-    Метод Ньютона, его модификации - демпфированный (добавление шага) и кубический метод Ньютона. 
-    Квазиньютоновские методы: Бройден, DFP, BFGS, L-BFGS.
+
+9. Saddle point problem.
+    Gradient descent.
+    Extrapolation with projection, its modification.
+    Solving a bilinear problem on the simplex.
+   
+10. Second-order methods.
+    Newton's method, its modifications - damped (adding a step) and cubic Newton's method.
+    Quasi-Newton methods: Broyden, DFP, BFGS, L-BFGS.
+
