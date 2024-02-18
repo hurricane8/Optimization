@@ -1,7 +1,7 @@
 # Optimization
 DCAM MIPT course (6 sem)
 
-Home assignments (1 - 9) on optimization within the course "Methods of Optimization at MIPT". Lecturer - Beznosikov A.N.
+Home assignments (1 - 9) on optimization within the course "Methods of Optimization at MIPT". Lecturer - PhD A. Beznosikov 
 
 
 
